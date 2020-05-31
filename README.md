@@ -33,3 +33,13 @@ I have no automated tests automated tests for this system
 ## Deployment
 
 Have no idea on how to deploy this on a live system
+
+
+## Documentation
+
+This was by following this instructions: 
+
+```
+https://docs.microsoft.com/en-us/aspnet/core/tutorials/signalr-blazor-webassembly?view=aspnetcore-3.1&tabs=visual-studio
+```
+
