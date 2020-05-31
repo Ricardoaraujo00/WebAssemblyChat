@@ -1,0 +1,9 @@
+C:\Users\ricar\source\repos\WebAssemblyChat\WebAssemblyChat\Shared\bin\Debug\netstandard2.1\WebAssemblyChat.Shared.deps.json
+C:\Users\ricar\source\repos\WebAssemblyChat\WebAssemblyChat\Shared\bin\Debug\netstandard2.1\WebAssemblyChat.Shared.dll
+C:\Users\ricar\source\repos\WebAssemblyChat\WebAssemblyChat\Shared\bin\Debug\netstandard2.1\WebAssemblyChat.Shared.pdb
+C:\Users\ricar\source\repos\WebAssemblyChat\WebAssemblyChat\Shared\obj\Debug\netstandard2.1\WebAssemblyChat.Shared.csprojAssemblyReference.cache
+C:\Users\ricar\source\repos\WebAssemblyChat\WebAssemblyChat\Shared\obj\Debug\netstandard2.1\WebAssemblyChat.Shared.AssemblyInfoInputs.cache
+C:\Users\ricar\source\repos\WebAssemblyChat\WebAssemblyChat\Shared\obj\Debug\netstandard2.1\WebAssemblyChat.Shared.AssemblyInfo.cs
+C:\Users\ricar\source\repos\WebAssemblyChat\WebAssemblyChat\Shared\obj\Debug\netstandard2.1\WebAssemblyChat.Shared.csproj.CoreCompileInputs.cache
+C:\Users\ricar\source\repos\WebAssemblyChat\WebAssemblyChat\Shared\obj\Debug\netstandard2.1\WebAssemblyChat.Shared.dll
+C:\Users\ricar\source\repos\WebAssemblyChat\WebAssemblyChat\Shared\obj\Debug\netstandard2.1\WebAssemblyChat.Shared.pdb
