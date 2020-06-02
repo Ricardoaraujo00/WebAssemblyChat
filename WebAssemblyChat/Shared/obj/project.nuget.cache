@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "AL6LreGisHVqgLSWx8qCkqpD3OLwdKc77O12TJtE/55IStJDXBEbqoF7RoUe6fFjIR8O/kw+GNQntYUhaRA69w==",
+  "dgSpecHash": "ivFTbyLN0ndqNj3pNiL8PeQBn4umOGFXfspL1ZvipOnQCQJeGtAHU2ECK6PAPEFhAN9mt7K2Ti8wANp95abHVA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ricar\\source\\repos\\WebAssemblyChat\\WebAssemblyChat\\Shared\\WebAssemblyChat.Shared.csproj",
+  "projectFilePath": "C:\\Users\\User\\source\\repos\\WebAssemblyChat\\WebAssemblyChat\\Shared\\WebAssemblyChat.Shared.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

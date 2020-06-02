@@ -5,7 +5,7 @@
   "linkerEnabled": false,
   "resources": {
     "assembly": {
-      "WebAssemblyChat.Client.dll": "sha256-VvBQggCkumvTEhoLyBP4WdSe3Qz77XWhizPqR92V45A=",
+      "WebAssemblyChat.Client.dll": "sha256-+tgberyTgGR67KsUZB1JSvaPCgBooUDY4q71G3\/5SHg=",
       "Microsoft.AspNetCore.SignalR.Client.dll": "sha256-0a6O7cydv\/C1Mx3yCTvDyDPpjBuFKHRK5jnlCZC3r24=",
       "Microsoft.Extensions.DependencyInjection.Abstractions.dll": "sha256-o+nIDOlv+7C51lX5qskB167ESJHrLYQiPQU9lsq7bOk=",
       "netstandard.dll": "sha256-\/zcPVM75OAY+joGVM8yIC1gO1SFYWP1CFERgQ8PJkfA=",
@@ -57,7 +57,7 @@
       "System.ComponentModel.Annotations.dll": "sha256-tmnkCmP9OzLUkpQ3LP7PRosi7gt5pyfEZCM6aqAokFI=",
       "System.ComponentModel.DataAnnotations.dll": "sha256-0SUCcQWzGHfcG6aXyLxaiKag9TH1oBonphJAYmaZGoM=",
       "Microsoft.AspNetCore.Components.dll": "sha256-frGTd\/pHKY90\/MumXJBc9G549bt9caoHvQYRkXRv6Wg=",
-      "WebAssemblyChat.Shared.dll": "sha256-P+Z1XuQAECwxEV8YusJsTa6o98Ojy1LprQHpcG1AriY=",
+      "WebAssemblyChat.Shared.dll": "sha256-ELLHvRdZLkFSyu6Z0u3nvqtnd6bsgUFetVWZ6AVaPiE=",
       "Microsoft.AspNetCore.Components.WebAssembly.dll": "sha256-ASQUNa42c4EoMZuDg22e4UjmhkRoQmCFX5M9CkWEkaM=",
       "Microsoft.Extensions.Configuration.dll": "sha256-zZpxxfrYQXS\/u8KhIQy7ivRIWI0JQrv7mhUfL95FmJk=",
       "Microsoft.Extensions.Configuration.Abstractions.dll": "sha256-jyQrYAx8p0ND8ESXRgfOnubUjZnkf73BSREDwms8cQM=",
@@ -65,8 +65,8 @@
       "Microsoft.JSInterop.WebAssembly.dll": "sha256-As4J4IKSKh3bNALtK4PSknM5suoP1j6I5YXiOIrIZ3U="
     },
     "pdb": {
-      "WebAssemblyChat.Client.pdb": "sha256-znte4WIoSjJb7uuVYz4KPacBEUfSnUWp0cMI3+ukEVQ=",
-      "WebAssemblyChat.Shared.pdb": "sha256-PqOu9NhmnrgGzsN9Z1No24GUAq67AW+X1VoDc2ccR2E="
+      "WebAssemblyChat.Client.pdb": "sha256-vA6sSnmhsSMEsYyBA4jNIo8bqqX51+6\/4AxrAz8bvGA=",
+      "WebAssemblyChat.Shared.pdb": "sha256-8DJyfgiLtJW3ycom05EWzFrHf4vGs+OE4X1qXMry2j4="
     },
     "runtime": {
       "dotnet.3.2.0-preview2.20159.2.js": "sha256-80Q7rIpqLxXzuMWqtC+FCBNrG15kR\/r+ba08n2TpQO0=",

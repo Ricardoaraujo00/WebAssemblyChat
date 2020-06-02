@@ -1,25 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ricar\\source\\repos\\WebAssemblyChat\\WebAssemblyChat\\Client\\WebAssemblyChat.Client.csproj": {}
+    "C:\\Users\\User\\source\\repos\\WebAssemblyChat\\WebAssemblyChat\\Client\\WebAssemblyChat.Client.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ricar\\source\\repos\\WebAssemblyChat\\WebAssemblyChat\\Client\\WebAssemblyChat.Client.csproj": {
+    "C:\\Users\\User\\source\\repos\\WebAssemblyChat\\WebAssemblyChat\\Client\\WebAssemblyChat.Client.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ricar\\source\\repos\\WebAssemblyChat\\WebAssemblyChat\\Client\\WebAssemblyChat.Client.csproj",
+        "projectUniqueName": "C:\\Users\\User\\source\\repos\\WebAssemblyChat\\WebAssemblyChat\\Client\\WebAssemblyChat.Client.csproj",
         "projectName": "WebAssemblyChat.Client",
-        "projectPath": "C:\\Users\\ricar\\source\\repos\\WebAssemblyChat\\WebAssemblyChat\\Client\\WebAssemblyChat.Client.csproj",
-        "packagesPath": "C:\\Users\\ricar\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ricar\\source\\repos\\WebAssemblyChat\\WebAssemblyChat\\Client\\obj\\",
+        "projectPath": "C:\\Users\\User\\source\\repos\\WebAssemblyChat\\WebAssemblyChat\\Client\\WebAssemblyChat.Client.csproj",
+        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\User\\source\\repos\\WebAssemblyChat\\WebAssemblyChat\\Client\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Microsoft\\Xamarin\\NuGet\\"
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\ricar\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netstandard2.1"
@@ -31,8 +30,8 @@
         "frameworks": {
           "netstandard2.1": {
             "projectReferences": {
-              "C:\\Users\\ricar\\source\\repos\\WebAssemblyChat\\WebAssemblyChat\\Shared\\WebAssemblyChat.Shared.csproj": {
-                "projectPath": "C:\\Users\\ricar\\source\\repos\\WebAssemblyChat\\WebAssemblyChat\\Shared\\WebAssemblyChat.Shared.csproj"
+              "C:\\Users\\User\\source\\repos\\WebAssemblyChat\\WebAssemblyChat\\Shared\\WebAssemblyChat.Shared.csproj": {
+                "projectPath": "C:\\Users\\User\\source\\repos\\WebAssemblyChat\\WebAssemblyChat\\Shared\\WebAssemblyChat.Shared.csproj"
               }
             }
           }
@@ -88,22 +87,21 @@
         }
       }
     },
-    "C:\\Users\\ricar\\source\\repos\\WebAssemblyChat\\WebAssemblyChat\\Shared\\WebAssemblyChat.Shared.csproj": {
+    "C:\\Users\\User\\source\\repos\\WebAssemblyChat\\WebAssemblyChat\\Shared\\WebAssemblyChat.Shared.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ricar\\source\\repos\\WebAssemblyChat\\WebAssemblyChat\\Shared\\WebAssemblyChat.Shared.csproj",
+        "projectUniqueName": "C:\\Users\\User\\source\\repos\\WebAssemblyChat\\WebAssemblyChat\\Shared\\WebAssemblyChat.Shared.csproj",
         "projectName": "WebAssemblyChat.Shared",
-        "projectPath": "C:\\Users\\ricar\\source\\repos\\WebAssemblyChat\\WebAssemblyChat\\Shared\\WebAssemblyChat.Shared.csproj",
-        "packagesPath": "C:\\Users\\ricar\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ricar\\source\\repos\\WebAssemblyChat\\WebAssemblyChat\\Shared\\obj\\",
+        "projectPath": "C:\\Users\\User\\source\\repos\\WebAssemblyChat\\WebAssemblyChat\\Shared\\WebAssemblyChat.Shared.csproj",
+        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\User\\source\\repos\\WebAssemblyChat\\WebAssemblyChat\\Shared\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Microsoft\\Xamarin\\NuGet\\"
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\ricar\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netstandard2.1"

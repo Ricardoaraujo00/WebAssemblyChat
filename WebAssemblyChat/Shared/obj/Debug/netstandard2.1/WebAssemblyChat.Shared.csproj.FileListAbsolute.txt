@@ -7,3 +7,12 @@ C:\Users\ricar\source\repos\WebAssemblyChat\WebAssemblyChat\Shared\obj\Debug\net
 C:\Users\ricar\source\repos\WebAssemblyChat\WebAssemblyChat\Shared\obj\Debug\netstandard2.1\WebAssemblyChat.Shared.csproj.CoreCompileInputs.cache
 C:\Users\ricar\source\repos\WebAssemblyChat\WebAssemblyChat\Shared\obj\Debug\netstandard2.1\WebAssemblyChat.Shared.dll
 C:\Users\ricar\source\repos\WebAssemblyChat\WebAssemblyChat\Shared\obj\Debug\netstandard2.1\WebAssemblyChat.Shared.pdb
+C:\Users\User\source\repos\WebAssemblyChat\WebAssemblyChat\Shared\bin\Debug\netstandard2.1\WebAssemblyChat.Shared.deps.json
+C:\Users\User\source\repos\WebAssemblyChat\WebAssemblyChat\Shared\bin\Debug\netstandard2.1\WebAssemblyChat.Shared.dll
+C:\Users\User\source\repos\WebAssemblyChat\WebAssemblyChat\Shared\bin\Debug\netstandard2.1\WebAssemblyChat.Shared.pdb
+C:\Users\User\source\repos\WebAssemblyChat\WebAssemblyChat\Shared\obj\Debug\netstandard2.1\WebAssemblyChat.Shared.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\WebAssemblyChat\WebAssemblyChat\Shared\obj\Debug\netstandard2.1\WebAssemblyChat.Shared.AssemblyInfo.cs
+C:\Users\User\source\repos\WebAssemblyChat\WebAssemblyChat\Shared\obj\Debug\netstandard2.1\WebAssemblyChat.Shared.dll
+C:\Users\User\source\repos\WebAssemblyChat\WebAssemblyChat\Shared\obj\Debug\netstandard2.1\WebAssemblyChat.Shared.pdb
+C:\Users\User\source\repos\WebAssemblyChat\WebAssemblyChat\Shared\obj\Debug\netstandard2.1\WebAssemblyChat.Shared.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\WebAssemblyChat\WebAssemblyChat\Shared\obj\Debug\netstandard2.1\WebAssemblyChat.Shared.csprojAssemblyReference.cache
